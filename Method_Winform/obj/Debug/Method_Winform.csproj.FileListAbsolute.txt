@@ -1,0 +1,10 @@
+C:\Users\idodo\Documents\Study2_C\Method_Winform\bin\Debug\Method_Winform.exe.config
+C:\Users\idodo\Documents\Study2_C\Method_Winform\bin\Debug\Method_Winform.exe
+C:\Users\idodo\Documents\Study2_C\Method_Winform\bin\Debug\Method_Winform.pdb
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.csproj.AssemblyReference.cache
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.Form1.resources
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.Properties.Resources.resources
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.csproj.GenerateResource.cache
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.csproj.CoreCompileInputs.cache
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.exe
+C:\Users\idodo\Documents\Study2_C\Method_Winform\obj\Debug\Method_Winform.pdb
